@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ac+riXw8otubr+eKJF8iiD2m5Gq/dQgpo4m2oNJLCwf4uUYoUOX0nwig+NXb0JtmRAEpUwtQLrHUYSsOchjx8w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\AS Informática\\Downloads\\marvel-master\\marvel-master\\aspmarvel.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AS Informática\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

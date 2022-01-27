@@ -1,0 +1,44 @@
+C:\Users\mateu\Desktop\workspace\c#\aspmarvel\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\mateu\Desktop\workspace\c#\aspmarvel\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\mateu\Desktop\workspace\c#\aspmarvel\bin\Debug\netcoreapp3.1\aspmarvel.exe
+C:\Users\mateu\Desktop\workspace\c#\aspmarvel\bin\Debug\netcoreapp3.1\aspmarvel.deps.json
+C:\Users\mateu\Desktop\workspace\c#\aspmarvel\bin\Debug\netcoreapp3.1\aspmarvel.runtimeconfig.json
+C:\Users\mateu\Desktop\workspace\c#\aspmarvel\bin\Debug\netcoreapp3.1\aspmarvel.runtimeconfig.dev.json
+C:\Users\mateu\Desktop\workspace\c#\aspmarvel\bin\Debug\netcoreapp3.1\aspmarvel.dll
+C:\Users\mateu\Desktop\workspace\c#\aspmarvel\bin\Debug\netcoreapp3.1\aspmarvel.pdb
+C:\Users\mateu\Desktop\workspace\c#\aspmarvel\obj\Debug\netcoreapp3.1\aspmarvel.csprojAssemblyReference.cache
+C:\Users\mateu\Desktop\workspace\c#\aspmarvel\obj\Debug\netcoreapp3.1\aspmarvel.AssemblyInfoInputs.cache
+C:\Users\mateu\Desktop\workspace\c#\aspmarvel\obj\Debug\netcoreapp3.1\aspmarvel.AssemblyInfo.cs
+C:\Users\mateu\Desktop\workspace\c#\aspmarvel\obj\Debug\netcoreapp3.1\aspmarvel.csproj.CoreCompileInputs.cache
+C:\Users\mateu\Desktop\workspace\c#\aspmarvel\obj\Debug\netcoreapp3.1\aspmarvel.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mateu\Desktop\workspace\c#\aspmarvel\obj\Debug\netcoreapp3.1\staticwebassets\aspmarvel.StaticWebAssets.Manifest.cache
+C:\Users\mateu\Desktop\workspace\c#\aspmarvel\obj\Debug\netcoreapp3.1\staticwebassets\aspmarvel.StaticWebAssets.xml
+C:\Users\mateu\Desktop\workspace\c#\aspmarvel\obj\Debug\netcoreapp3.1\scopedcss\bundle\aspmarvel.styles.css
+C:\Users\mateu\Desktop\workspace\c#\aspmarvel\obj\Debug\netcoreapp3.1\aspmarvel.RazorTargetAssemblyInfo.cache
+C:\Users\mateu\Desktop\workspace\c#\aspmarvel\obj\Debug\netcoreapp3.1\aspmarvel.dll
+C:\Users\mateu\Desktop\workspace\c#\aspmarvel\obj\Debug\netcoreapp3.1\aspmarvel.pdb
+C:\Users\mateu\Desktop\workspace\c#\aspmarvel\obj\Debug\netcoreapp3.1\aspmarvel.genruntimeconfig.cache
+C:\Users\mateu\Desktop\workspace\c#\aspmarvel\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\mateu\Desktop\workspace\c#\aspmarvel\obj\Debug\netcoreapp3.1\aspmarvel.csproj.CopyComplete
+C:\Users\AS Informática\Downloads\marvel-master\marvel-master\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\AS Informática\Downloads\marvel-master\marvel-master\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\AS Informática\Downloads\marvel-master\marvel-master\bin\Debug\netcoreapp3.1\aspmarvel.StaticWebAssets.xml
+C:\Users\AS Informática\Downloads\marvel-master\marvel-master\bin\Debug\netcoreapp3.1\aspmarvel.exe
+C:\Users\AS Informática\Downloads\marvel-master\marvel-master\bin\Debug\netcoreapp3.1\aspmarvel.deps.json
+C:\Users\AS Informática\Downloads\marvel-master\marvel-master\bin\Debug\netcoreapp3.1\aspmarvel.runtimeconfig.json
+C:\Users\AS Informática\Downloads\marvel-master\marvel-master\bin\Debug\netcoreapp3.1\aspmarvel.runtimeconfig.dev.json
+C:\Users\AS Informática\Downloads\marvel-master\marvel-master\bin\Debug\netcoreapp3.1\aspmarvel.dll
+C:\Users\AS Informática\Downloads\marvel-master\marvel-master\bin\Debug\netcoreapp3.1\aspmarvel.pdb
+C:\Users\AS Informática\Downloads\marvel-master\marvel-master\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\AS Informática\Downloads\marvel-master\marvel-master\obj\Debug\netcoreapp3.1\aspmarvel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AS Informática\Downloads\marvel-master\marvel-master\obj\Debug\netcoreapp3.1\aspmarvel.AssemblyInfoInputs.cache
+C:\Users\AS Informática\Downloads\marvel-master\marvel-master\obj\Debug\netcoreapp3.1\aspmarvel.AssemblyInfo.cs
+C:\Users\AS Informática\Downloads\marvel-master\marvel-master\obj\Debug\netcoreapp3.1\aspmarvel.csproj.CoreCompileInputs.cache
+C:\Users\AS Informática\Downloads\marvel-master\marvel-master\obj\Debug\netcoreapp3.1\aspmarvel.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\AS Informática\Downloads\marvel-master\marvel-master\obj\Debug\netcoreapp3.1\staticwebassets\aspmarvel.StaticWebAssets.Manifest.cache
+C:\Users\AS Informática\Downloads\marvel-master\marvel-master\obj\Debug\netcoreapp3.1\aspmarvel.RazorTargetAssemblyInfo.cache
+C:\Users\AS Informática\Downloads\marvel-master\marvel-master\obj\Debug\netcoreapp3.1\aspmarvel.csproj.CopyComplete
+C:\Users\AS Informática\Downloads\marvel-master\marvel-master\obj\Debug\netcoreapp3.1\aspmarvel.dll
+C:\Users\AS Informática\Downloads\marvel-master\marvel-master\obj\Debug\netcoreapp3.1\aspmarvel.pdb
+C:\Users\AS Informática\Downloads\marvel-master\marvel-master\obj\Debug\netcoreapp3.1\aspmarvel.genruntimeconfig.cache
+C:\Users\AS Informática\Downloads\marvel-master\marvel-master\obj\Debug\netcoreapp3.1\aspmarvel.csproj.AssemblyReference.cache
